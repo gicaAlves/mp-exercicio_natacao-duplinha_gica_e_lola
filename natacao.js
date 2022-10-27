@@ -1,7 +1,6 @@
 //exercício Natação em dupla
 //feito por Gica e Lola (Giovanna Alves e Paola)
 
-/
 var idade = 4
 
 
